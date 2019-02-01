@@ -16,8 +16,8 @@ Used when the deployment tool in place does not support dacpac based deployments
 
 Usage: call daccompare.exe with desired parameters:
 
-* /sourcefile=<full path to source dacpac file>
-* /targetfile=<full path to target dacpac file>
-* /scriptfile=<full path to sql script file to generate>
-* /nosqlcmd <optional param comment out sqlcmd section>
+* /sourcefile=full path to source dacpac file
+* /targetfile=full path to target dacpac file
+* /scriptfile=full path to sql script file to generate
+* /nosqlcmd optional param comment out sqlcmd section
 
